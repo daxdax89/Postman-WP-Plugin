@@ -1,0 +1,52 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+  #toast-container.toast-bottom-center>div, #toast-container.toast-top-center>div {
+    width: 400px;
+  }
+  
+
+  .inside input {
+    width: 100%;
+  }
+
+  .container {
+    margin-left: 20px;
+    margin-right: 40px;
+  }
+
+  .step {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .step_adder {
+    margin-top: 5px !important;
+  }
+  .field_adder  {
+    margin: 5px !important;
+  }
+
+  .step_remover  { 
+    float: right;
+    margin: 5px !important;
+  }
+
+
+
+  .field {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+
+  #post-body .dashicons {
+    padding: 4px;
+  }
+
+
+  .other_text {
+    min-height: 4em;
+  }
